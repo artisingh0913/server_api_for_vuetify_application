@@ -1,0 +1,48 @@
+{
+    "robin_1": {    
+      "name": "Robin",
+      "password": "robin",
+      "token": ""
+    },
+    "rita_2": {    
+      "name": "Rita",
+      "password": "rita",
+      "token": ""
+    },
+    "dave_3": {      
+        "name": "Dave",
+        "password": "dave",
+        "token": ""
+    },
+    "john_4": {      
+        "name": "John",
+        "password": "john",
+        "token": ""
+    }
+  }
+
+
+
+
+  {
+    "1": {
+      "id": "1",
+      "username": "Robin",
+      "password": "robin"
+    },
+    "2": {
+      "id": "2",
+      "username": "Rita",
+      "password": "rita"
+    },
+    "3": {
+        "id": "3",
+        "username": "Dave",
+        "password": "dave"
+    },
+    "4": {
+        "id": "4",
+        "username": "John",
+        "password": "john"
+    }
+}
